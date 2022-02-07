@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto de Escola
 
 ## Objetivo:
@@ -15,3 +16,6 @@ ___
 
 [ ] Criação da class pessoa e Alunos e Professores;
 ___
+=======
+# ProjetoEscola
+>>>>>>> a0f6cffcf50360dd5eb9f8a80ac64eaf1a71e54a
