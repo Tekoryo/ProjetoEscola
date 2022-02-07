@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto de Escola
 
 ## Objetivo:
